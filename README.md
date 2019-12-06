@@ -1,7 +1,7 @@
 # Microsoft-Office-365-Express-Training
 Formação de Microsoft Office 365 para utilizadores / Microsoft Office 365 Training for End Users
 
-* ### Note: The content from this training is written in Portuguese.
+* #### Note: The content from this training is written in Portuguese.
 
 * #### Nota: Os conteudos desta formação são disponibilizados aos formandos presentes no curso.
 
