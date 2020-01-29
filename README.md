@@ -18,7 +18,7 @@ O Microsoft Office 365 é um conjunto de ferramentas e serviços de produtividad
  * Microsoft Power Automate (anteriormente conhecido como Microsoft Flow) 
     * É um serviço baseado em núvem que permite criar fluxos de trabalho para automatizar tarefas e processos de de negócios.
  * Microsoft PowerApps
- * Microosft SharePoint Online
+ * Microsoft SharePoint Online
  
  <br />
  
